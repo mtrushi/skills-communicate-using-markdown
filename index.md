@@ -7,5 +7,11 @@
 
 Ndryshuam permasat e Headerit dhe shtuam nje shprehje domethenese me gomere
 
+```
+$ git init
+Initialized ze empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
-
+``` javascript
+var myVar = "Hello, world!";
+```
