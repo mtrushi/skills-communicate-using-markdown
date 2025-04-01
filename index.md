@@ -15,3 +15,10 @@ Initialized ze empty Git repository in /Users/skills/Projects/recipe-repository/
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+##### Nashti do krijojme lista mendjethyese
+- [x] Dy dele
+- [x] Dy dele
+- [ ] 300 pare
+
+Ueu, s`paskemi pare
